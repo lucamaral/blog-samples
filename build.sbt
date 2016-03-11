@@ -27,7 +27,13 @@ git.gitTagToVersionNumber := {
 }
 
 // sbt native packager
-publishTo := Some("temp" at "file:///tmp/repository")
+publishTo := {
+  val nexus = "http://localhost:8081/nexus/"
+  if (isSnapshot.value)
+    Some("snapshots" at nexus + "content/repositories/snapshots")
+  else
+    Some("releases"  at nexus + "content/repositories/releases")
+}
 makeDeploymentSettings(Universal, packageBin in Universal, "zip")
 
 // sbt release

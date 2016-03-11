@@ -1,0 +1,121 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(/home/handit/workspace/blog-samples/target/scala-2.11/routes/main/router/RoutesPrefix.scala, /home/handit/workspace/blog-samples/target/scala-2.11/routes/main/eu/byjean/javascript/JavaScriptReverseRoutes.scala, /home/handit/workspace/blog-samples/target/scala-2.11/routes/main/router/Routes.scala, /home/handit/workspace/blog-samples/app/eu/byjean/Health.scala, /home/handit/workspace/blog-samples/target/scala-2.11/routes/main/eu/byjean/ReverseRoutes.scala, /home/handit/workspace/blog-samples/target/scala-2.11/routes/main/eu/byjean/routes.java, /home/handit/workspace/blog-samples/target/scala-2.11/src_managed/main/sbt-buildinfo/BuildInfo.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/handit/workspace/blog-samples/target/scala-2.11/routes/main/router/RoutesPrefix.scala, /home/handit/workspace/blog-samples/target/scala-2.11/routes/main/eu/byjean/javascript/JavaScriptReverseRoutes.scala, /home/handit/workspace/blog-samples/target/scala-2.11/routes/main/router/Routes.scala, /home/handit/workspace/blog-samples/app/eu/byjean/Health.scala, /home/handit/workspace/blog-samples/target/scala-2.11/routes/main/eu/byjean/ReverseRoutes.scala, /home/handit/workspace/blog-samples/target/scala-2.11/routes/main/eu/byjean/routes.java, /home/handit/workspace/blog-samples/target/scala-2.11/src_managed/main/sbt-buildinfo/BuildInfo.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/handit/workspace/blog-samples/target/scala-2.11/routes/main/router/RoutesPrefix.scala, /home/handit/workspace/blog-samples/target/scala-2.11/routes/main/eu/byjean/javascript/JavaScriptReverseRoutes.scala, /home/handit/workspace/blog-samples/target/scala-2.11/routes/main/router/Routes.scala, /home/handit/workspace/blog-samples/app/eu/byjean/Health.scala, /home/handit/workspace/blog-samples/target/scala-2.11/routes/main/eu/byjean/ReverseRoutes.scala, /home/handit/workspace/blog-samples/target/scala-2.11/routes/main/eu/byjean/routes.java, /home/handit/workspace/blog-samples/target/scala-2.11/src_managed/main/sbt-buildinfo/BuildInfo.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 7 sources: invalidated sources (7) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 6 Scala sources and 1 Java source to /home/handit/workspace/blog-samples/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mPlain interface to Scala compiler 2.11.7  with arguments: [0m
+[0m[[0mdebug[0m] [0m	-nowarn[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_4eaa14fd[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64/jre/lib/resources.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64/jre/lib/rt.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64/jre/lib/jsse.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64/jre/lib/jce.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64/jre/lib/charsets.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64/jre/lib/jfr.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64/jre/classes:/home/handit/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/handit/.sbt/boot/scala-2.10.5/org.scala-sbt/sbt/0.13.9-RC1/xsbti/interface-0.13.9-RC1.jar:/home/handit/.sbt/boot/scala-2.10.5/org.scala-sbt/sbt/0.13.9-RC1/compiler-interface-src/compiler-interface-src-0.13.9-RC1.jar:/home/handit/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.7.jar:/home/handit/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.7.jar:/home/handit/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.4.jar:/home/handit/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.4.jar:/home/handit/.ivy2/cache/jline/jline/jars/jline-2.12.1.jar[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_42ed49eb/xsbt/API.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_42ed49eb/xsbt/Analyzer.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_42ed49eb/xsbt/Command.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_42ed49eb/xsbt/Compat.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_42ed49eb/xsbt/CompilerInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_42ed49eb/xsbt/ConsoleInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_42ed49eb/xsbt/DelegatingReporter.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_42ed49eb/xsbt/Dependency.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_42ed49eb/xsbt/ExtractAPI.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_42ed49eb/xsbt/ExtractUsedNames.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_42ed49eb/xsbt/LocateClassFile.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_42ed49eb/xsbt/Log.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_42ed49eb/xsbt/Message.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_42ed49eb/xsbt/ScaladocInterface.scala[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 6627b805, interfacing (CompilerInterface) with Scala compiler version 2.11.7[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-unchecked[0m
+[0m[[0mdebug[0m] [0m	-encoding[0m
+[0m[[0mdebug[0m] [0m	utf8[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64/jre/lib/resources.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64/jre/lib/rt.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64/jre/lib/jsse.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64/jre/lib/jce.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64/jre/lib/charsets.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64/jre/lib/jfr.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.71-2.b15.el7_2.x86_64/jre/classes:/home/handit/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/handit/workspace/blog-samples/target/scala-2.11/classes:/home/handit/activator-dist-1.3.7/repository/com.typesafe.play/twirl-api_2.11/1.1.1/jars/twirl-api_2.11.jar:/home/handit/.ivy2/cache/org.apache.commons/commons-lang3/jars/commons-lang3-3.4.jar:/home/handit/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.1.jar:/home/handit/.ivy2/cache/com.typesafe.play/play-server_2.11/jars/play-server_2.11-2.4.2.jar:/home/handit/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.4.2.jar:/home/handit/.ivy2/cache/com.typesafe.play/build-link/jars/build-link-2.4.2.jar:/home/handit/.ivy2/cache/com.typesafe.play/play-exceptions/jars/play-exceptions-2.4.2.jar:/home/handit/.ivy2/cache/org.javassist/javassist/bundles/javassist-3.19.0-GA.jar:/home/handit/.ivy2/cache/com.typesafe.play/play-iteratees_2.11/jars/play-iteratees_2.11-2.4.2.jar:/home/handit/activator-dist-1.3.7/repository/org.scala-stm/scala-stm_2.11/0.7/jars/scala-stm_2.11.jar:/home/handit/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar:/home/handit/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.4.2.jar:/home/handit/.ivy2/cache/com.typesafe.play/play-functional_2.11/jars/play-functional_2.11-2.4.2.jar:/home/handit/.ivy2/cache/com.typesafe.play/play-datacommons_2.11/jars/play-datacommons_2.11-2.4.2.jar:/home/handit/activator-dist-1.3.7/repository/joda-time/joda-time/2.8.1/jars/joda-time.jar:/home/handit/activator-dist-1.3.7/repository/org.joda/joda-convert/1.7/jars/joda-convert.jar:/home/handit/activator-dist-1.3.7/repository/org.scala-lang/scala-reflect/2.11.6/jars/scala-reflect.jar:/home/handit/activator-dist-1.3.7/repository/com.fasterxml.jackson.core/jackson-core/2.5.4/bundles/jackson-core.jar:/home/handit/activator-dist-1.3.7/repository/com.fasterxml.jackson.core/jackson-annotations/2.5.4/bundles/jackson-annotations.jar:/home/handit/activator-dist-1.3.7/repository/com.fasterxml.jackson.core/jackson-databind/2.5.4/bundles/jackson-databind.jar:/home/handit/activator-dist-1.3.7/repository/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.5.4/bundles/jackson-datatype-jdk8.jar:/home/handit/activator-dist-1.3.7/repository/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.5.4/bundles/jackson-datatype-jsr310.jar:/home/handit/.ivy2/cache/com.typesafe.play/play-netty-utils/jars/play-netty-utils-2.4.2.jar:/home/handit/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.12.jar:/home/handit/activator-dist-1.3.7/repository/org.slf4j/jul-to-slf4j/1.7.12/jars/jul-to-slf4j.jar:/home/handit/activator-dist-1.3.7/repository/org.slf4j/jcl-over-slf4j/1.7.12/jars/jcl-over-slf4j.jar:/home/handit/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.1.jar:/home/handit/activator-dist-1.3.7/repository/ch.qos.logback/logback-core/1.1.3/jars/logback-core.jar:/home/handit/activator-dist-1.3.7/repository/ch.qos.logback/logback-classic/1.1.3/jars/logback-classic.jar:/home/handit/activator-dist-1.3.7/repository/com.typesafe.akka/akka-actor_2.11/2.3.11/jars/akka-actor_2.11.jar:/home/handit/activator-dist-1.3.7/repository/com.typesafe.akka/akka-slf4j_2.11/2.3.11/jars/akka-slf4j_2.11.jar:/home/handit/activator-dist-1.3.7/repository/commons-codec/commons-codec/1.10/jars/commons-codec.jar:/home/handit/activator-dist-1.3.7/repository/xerces/xercesImpl/2.11.0/jars/xercesImpl.jar:/home/handit/activator-dist-1.3.7/repository/xml-apis/xml-apis/1.4.01/jars/xml-apis.jar:/home/handit/activator-dist-1.3.7/repository/javax.transaction/jta/1.1/jars/jta.jar:/home/handit/activator-dist-1.3.7/repository/com.google.inject/guice/4.0/jars/guice.jar:/home/handit/.ivy2/cache/javax.inject/javax.inject/jars/javax.inject-1.jar:/home/handit/.ivy2/cache/aopalliance/aopalliance/jars/aopalliance-1.0.jar:/home/handit/activator-dist-1.3.7/repository/com.google.guava/guava/16.0.1/bundles/guava.jar:/home/handit/activator-dist-1.3.7/repository/com.google.inject.extensions/guice-assistedinject/4.0/jars/guice-assistedinject.jar:/home/handit/.ivy2/cache/com.typesafe.play/play-netty-server_2.11/jars/play-netty-server_2.11-2.4.2.jar:/home/handit/.ivy2/cache/io.netty/netty/bundles/netty-3.10.3.Final.jar:/home/handit/activator-dist-1.3.7/repository/com.typesafe.netty/netty-http-pipelining/1.1.4/jars/netty-http-pipelining.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 51.357326821 s[0m
+[0m[[0mdebug[0m] [0mAttempting to call com.sun.tools.javac.api.JavacTool@3322c96d directly...[0m
+[0m[[0mdebug[0m] [0mJava compilation took 4.523032623 s[0m
+[0m[[0mdebug[0m] [0mJava analysis took 0.262828671 s[0m
+[0m[[0mdebug[0m] [0mJava compile + analysis took 4.890708711 s[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/handit/workspace/blog-samples/target/scala-2.11/routes/main/router/RoutesPrefix.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/handit/workspace/blog-samples/target/scala-2.11/routes/main/router/RoutesPrefix.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/handit/workspace/blog-samples/target/scala-2.11/routes/main/router/RoutesPrefix.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/handit/workspace/blog-samples/target/scala-2.11/routes/main/router/RoutesPrefix.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/handit/workspace/blog-samples/target/scala-2.11/routes/main/router/RoutesPrefix.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, byNamePrefix, wait, $asInstanceOf, equals, prefix, asInstanceOf, RoutesPrefix, synchronized, $isInstanceOf, _prefix, notifyAll, isInstanceOf, ==, clone, toString, !=, getClass, setPrefix, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/handit/workspace/blog-samples/target/scala-2.11/routes/main/router/Routes.scala: Set(prefix, asInstanceOf, RoutesPrefix, _prefix, isInstanceOf, getClass, setPrefix)[0m
+[0m[[0mdebug[0m] [0mName hashing optimization doesn't apply to non-Scala dependency: /home/handit/workspace/blog-samples/target/scala-2.11/routes/main/eu/byjean/routes.java[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/handit/workspace/blog-samples/target/scala-2.11/routes/main/eu/byjean/ReverseRoutes.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/handit/workspace/blog-samples/target/scala-2.11/routes/main/eu/byjean/ReverseRoutes.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/handit/workspace/blog-samples/target/scala-2.11/routes/main/eu/byjean/ReverseRoutes.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/handit/workspace/blog-samples/target/scala-2.11/routes/main/eu/byjean/ReverseRoutes.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/handit/workspace/blog-samples/target/scala-2.11/routes/main/eu/byjean/ReverseRoutes.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, _defaultPrefix, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, <init>, check, ==, clone, toString, !=, getClass, ReverseHealth, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mName hashing optimization doesn't apply to non-Scala dependency: /home/handit/workspace/blog-samples/target/scala-2.11/routes/main/eu/byjean/routes.java[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/handit/workspace/blog-samples/app/eu/byjean/Health.scala: Set(<init>, check, toString)[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/handit/workspace/blog-samples/app/eu/byjean/Health.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/handit/workspace/blog-samples/app/eu/byjean/Health.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/handit/workspace/blog-samples/app/eu/byjean/Health.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/handit/workspace/blog-samples/app/eu/byjean/Health.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/handit/workspace/blog-samples/app/eu/byjean/Health.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m	request2session, request2flash, request2lang.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following member ref dependencies of /home/handit/workspace/blog-samples/app/eu/byjean/Health.scala are invalidated:[0m
+[0m[[0mdebug[0m] [0m	/home/handit/workspace/blog-samples/target/scala-2.11/routes/main/router/Routes.scala[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/handit/workspace/blog-samples/target/scala-2.11/routes/main/router/Routes.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/handit/workspace/blog-samples/target/scala-2.11/routes/main/router/Routes.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/handit/workspace/blog-samples/target/scala-2.11/routes/main/router/Routes.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/handit/workspace/blog-samples/target/scala-2.11/routes/main/router/Routes.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/handit/workspace/blog-samples/target/scala-2.11/routes/main/router/Routes.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, badRequest, wait, $asInstanceOf, routes, createInvoker, equals, prefix, asInstanceOf, documentation, synchronized, $isInstanceOf, handlerFor, _prefix, notifyAll, isInstanceOf, errorHandler, <init>, ==, clone, Routes, toString, !=, eu_byjean_Health_check0_invoker, fakeValue, getClass, ne, withPrefix, eu_byjean_Health_check0_route, call, eq, defaultPrefix, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/handit/workspace/blog-samples/target/scala-2.11/routes/main/eu/byjean/routes.java...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/handit/workspace/blog-samples/target/scala-2.11/routes/main/eu/byjean/routes.java...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/handit/workspace/blog-samples/target/scala-2.11/routes/main/eu/byjean/routes.java)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/handit/workspace/blog-samples/target/scala-2.11/routes/main/eu/byjean/routes.java)[0m
+[0m[[0mdebug[0m] [0mThe /home/handit/workspace/blog-samples/target/scala-2.11/routes/main/eu/byjean/routes.java source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, routes, equals, Health, routes$javascript, notifyAll, <init>, toString, getClass, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mName hashing optimization doesn't apply to non-Scala dependency: /home/handit/workspace/blog-samples/target/scala-2.11/routes/main/eu/byjean/routes.java[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/handit/workspace/blog-samples/app/eu/byjean/Health.scala: Set(routes, Health, <init>, toString)[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/handit/workspace/blog-samples/target/scala-2.11/routes/main/eu/byjean/javascript/JavaScriptReverseRoutes.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/handit/workspace/blog-samples/target/scala-2.11/routes/main/eu/byjean/javascript/JavaScriptReverseRoutes.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/handit/workspace/blog-samples/target/scala-2.11/routes/main/eu/byjean/javascript/JavaScriptReverseRoutes.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/handit/workspace/blog-samples/target/scala-2.11/routes/main/eu/byjean/javascript/JavaScriptReverseRoutes.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/handit/workspace/blog-samples/target/scala-2.11/routes/main/eu/byjean/javascript/JavaScriptReverseRoutes.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, _defaultPrefix, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, <init>, check, ==, clone, toString, !=, getClass, ReverseHealth, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mName hashing optimization doesn't apply to non-Scala dependency: /home/handit/workspace/blog-samples/target/scala-2.11/routes/main/eu/byjean/routes.java[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/handit/workspace/blog-samples/target/scala-2.11/src_managed/main/sbt-buildinfo/BuildInfo.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/handit/workspace/blog-samples/target/scala-2.11/src_managed/main/sbt-buildinfo/BuildInfo.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/handit/workspace/blog-samples/target/scala-2.11/src_managed/main/sbt-buildinfo/BuildInfo.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/handit/workspace/blog-samples/target/scala-2.11/src_managed/main/sbt-buildinfo/BuildInfo.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/handit/workspace/blog-samples/target/scala-2.11/src_managed/main/sbt-buildinfo/BuildInfo.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, name, wait, $asInstanceOf, productArity, equals, asInstanceOf, synchronized, $isInstanceOf, canEqual, BuildInfo, productPrefix, scalaVersion, notifyAll, readResolve, isInstanceOf, version, ==, clone, sbtVersion, toString, !=, getClass, ne, eq, productIterator, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/handit/workspace/blog-samples/app/eu/byjean/Health.scala: Set(BuildInfo, version, toString)[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
